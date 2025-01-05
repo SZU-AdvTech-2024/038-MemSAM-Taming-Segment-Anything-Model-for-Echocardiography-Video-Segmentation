@@ -1,0 +1,7 @@
+@inproceedings{REPO038,
+    author = "Deng, Xiaolong and Wu, Huisi and Zeng, Runhao and Qin, Jing",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "9622--9631",
+    title = "{MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation}",
+    year = "2024"
+}
